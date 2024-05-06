@@ -1,2 +1,4 @@
 # SSIS ETL Package
-Microsoft SQL Server Integration Services package.
+
+### SQL Server Integration Services
+![package-exe](Resources/package-exe.png)
